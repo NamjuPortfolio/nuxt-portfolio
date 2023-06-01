@@ -1,0 +1,1 @@
+.dark-mode body{animation:background 9s infinite alternate-reverse}@keyframes background{0%{background-color:#091a28}50%{background-color:#08131b}to{background:#030507}}

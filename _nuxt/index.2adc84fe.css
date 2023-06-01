@@ -1,0 +1,1 @@
+.txt-1{animation:top 1s forwards}.txt-2{animation:letter 1s 1s backwards}@keyframes top{0%{margin-top:-50px;opacity:0}50%{margin-top:0}to{opacity:1}}@keyframes letter{0%{letter-spacing:1em;opacity:0}50%{letter-spacing:.1em;opacity:.5}to{opacity:1}}
